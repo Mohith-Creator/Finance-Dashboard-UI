@@ -100,6 +100,7 @@ src/
 │   │   ├── Dashboard.tsx   # Main dashboard with charts
 │   │   ├── Transactions.tsx # Transaction list with filters
 │   │   └── Insights.tsx    # Financial insights and analysis
+|   |   └── DeletedTransaction.tsx
 │   ├── types/              # TypeScript type definitions
 │   │   └── index.ts        # Shared types
 │   ├── utils/              # Utility functions
